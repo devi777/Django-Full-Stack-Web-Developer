@@ -1,0 +1,16 @@
+#one{
+    color: grey;
+}
+
+#one:hover{
+    color: white;
+}
+
+.jumbotron{
+    margin-top: 20px;
+}
+
+/* img{
+    width: 100px;
+    height: 100px;
+} */

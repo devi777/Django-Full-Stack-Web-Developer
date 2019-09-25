@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background: rgb(10, 10, 61);
+    color: white;
+    border-left: 100px solid rgb(0, 195, 255);
+    border-right: 100px solid rgb(0, 195, 255);
+    border-bottom: 100px solid rgb(0, 195, 255);
+    font-size: 20px;
+    padding: 0px 325px 0px 325px;
+}
+
+#a{
+    width: 375px;
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#b{
+    margin: 0px;
+    padding: 0px;
+}
+
+#last{
+    border: solid grey 2px;
+    background: rgb(225, 146, 0);
+    width: 160px;
+    height: 80px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-bottom: 5px;     
+    font-weight: bold;
+}
